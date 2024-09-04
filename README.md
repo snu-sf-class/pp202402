@@ -19,7 +19,8 @@ _TO BE ANNOUNCED_
 ## Course Description
 ### Lecture Slides
 
-Download [lecture.pdf](https://github.com/snu-sf-class/pp202402/blob/main/lecture.pdf). You can see the history of the lecture slides from [commit logs](https://github.com/snu-sf-class/pp202402/commits/main)
+Download [lecture.pdf](https://github.com/snu-sf-class/pp202402/blob/main/lecture.pdf). You can see the history of the lecture slides from [commit logs](https://github.com/snu-sf-class/pp202402/commits/main).
+
 
 ### Tools
 _TO BE ANNOUNCED_
