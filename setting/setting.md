@@ -258,6 +258,7 @@ cargo 1.72.0 (103a7ff2e 2023-08-15)
 ```
 > cargo new hello_cargo
 ```
+콘솔 창에서 위 코드를 입력하면 빈 cargo 프로젝트를 만들 수 있습니다.
 
 ### VSCode
 
@@ -265,7 +266,7 @@ cargo 1.72.0 (103a7ff2e 2023-08-15)
 
 위와 같이 vscode 확장에서 `rust-analyzer`를 찾아 설치해 줍시다.
 
-그 다음, 1.3.1에서 만든 새 cargo 프로젝트를 vscode에서 열어봅시다.
+그 다음, 앞에서 만든 새 cargo 프로젝트를 vscode에서 열어봅시다.
 
 ![](./rust%20vscode%202.png)
 
