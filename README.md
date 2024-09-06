@@ -13,6 +13,10 @@
   - Midterm exam : 30%
   - Final exam : 40%
 
+### Attendence
+We will not use electronic attendance check in this class.
+If the professor does not specifically check attendance during class, everyone will be marked as present.
+
 ### Announcements
 - Check announcements in [Issues](https://github.com/snu-sf-class/pp202402/issues)
 
