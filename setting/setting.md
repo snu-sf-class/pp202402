@@ -1,6 +1,6 @@
-# **<<<!!! IMPORTANT 중요 IMPORTANT !!! >>>**
+# ⚠️  중요 ⚠️
 
-**Copilot 등의 AI 자동완성 기능을 사용하다 Clone checker 등에 걸렸을 경우, 작성한 코드에 대한 모든 책임은 수강생 본인에게 있습니다.** 
+**Copilot 등의 AI 자동완성 기능을 사용하다 Clone checker 등에 걸렸을 경우, 작성한 코드에 대한 모든 책임은 수강생 본인에게 있습니다.**
 
 현재 2024년에 있어 현실적으로 이러한 툴의 사용을 막을 방법은 없으나, 자신이 작성한 코드를 본인이 설명하지 못하는 경우 과제에 불이익이 가해질 수 있음을 인지 바랍니다.
 
@@ -29,8 +29,8 @@
 ### JDK 17 설치
 Scala 언어를 컴파일 하기 위해서는 JDK (Java Development Kit)가 컴퓨터에 설치되어 있어야 합니다. 다음 링크 중 하나에서 자신의 OS에 맞는 **JDK 17** (중요!) 버전을 다운받아 설치해주시기 바랍니다. 
 
-- Adoptium Temurin OpenJDK - [https://adoptium.net](https://adoptium.net/)
-- Azul Zulu OpenJDK - https://www.azul.com/downloads/?package=jdk#zulu
+- Adoptium Temurin OpenJDK - [Link](https://adoptium.net/temurin/releases/?version=17)
+- Azul Zulu OpenJDK - [Link](https://www.azul.com/downloads/?version=java-17-lts&package=jdk#zulu)
 
 본 수업에서는 위 둘 이외의 다른 JDK 버전 및 빌드를 사용하는 경우에 대해 과제의 유효성을 보장하지 않습니다.
 
@@ -54,14 +54,14 @@ Scala version (default): 3.5.0
 ```
 
 ### VSCode
-아래에서는 sbt를 통해 새로운 프로젝트를 만들고 이를 VSCode에서 불러오는 방법을 설명합니다. 과제 파일 등 기존 프로젝트를 불러오는 방법은 아래 설정을 따라한 다음, VS Code에서 build.sbt가 있는 폴더를 열면 됩니다.
+아래에서는 sbt를 통해 새로운 프로젝트를 만들고 이를 VSCode에서 불러오는 방법을 설명합니다. 과제 파일 등 기존 프로젝트를 불러오는 방법은 아래 설정을 따라한 다음, VSCode에서 build.sbt가 있는 폴더를 열면 됩니다.
 
 <details>
 <summary>접기/펼치기</summary>
 
 #### 0. VSCode 설치
 
-아래 링크에서 OS 설정에 맞는 VS Code를 다운받아 설치해주시기 바랍니다.
+아래 링크에서 OS 설정에 맞는 VSCode를 다운받아 설치해주시기 바랍니다.
 
 [https://code.visualstudio.com](https://code.visualstudio.com/)
 
