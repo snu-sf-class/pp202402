@@ -24,7 +24,8 @@ If the professor does not specifically check attendance during class, everyone w
 _TO BE ANNOUNCED_
 
 #### Assignments
-_TO BE ANNOUNCED_
+- [Assignment #0](https://github.com/snu-sf-class/pp202402/issues/3)
+- ...
 
 ## Course Description
 ### Lecture Slides
