@@ -21,7 +21,8 @@ If the professor does not specifically check attendance during class, everyone w
 - Check announcements in [Issues](https://github.com/snu-sf-class/pp202402/issues)
 
 #### Exam
-_TO BE ANNOUNCED_
+- [Midterm](https://github.com/snu-sf-class/pp202402/issues/12) : 2024/10/27(Sun) 1 p.m. ~ 5 p.m. 
+- Final : _TO BE ANNOUNCED_
 
 #### Assignments
 - [Assignment #0](https://github.com/snu-sf-class/pp202402/issues/3).
