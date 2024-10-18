@@ -38,6 +38,7 @@ SEB는 리눅스를 지원하지 않습니다.
 6. 좌하단의 버튼을 눌러 창을 전환하고, 원래 gitlab 페이지에서 아무 문장이나 복사합니다. 
 
 7. 편집창으로 돌아가 `src/main/scala/Main.scala` 파일의 내용을 적당히 수정하고 저장합니다. 
+    혹 붙여넣기가 안 된다면 원본 문장을 하이라이트한 후 Drag and Drop 해보십시오. 
 ![](./12.png)
 
 8. 편집창 왼쪽의 git UI를 통해 Commit message를 적고, `Commit to 'main'` 버튼을 누릅니다. 
@@ -58,7 +59,7 @@ SEB는 리눅스를 지원하지 않습니다.
 2. 안전모드로 진입합니다. 
 
     [Windows](https://support.microsoft.com/en-us/windows/start-your-pc-in-safe-mode-in-windows-92c27cff-db89-8644-1ce4-b3e5e56fe234)
-    
+
     [macOS](https://support.apple.com/guide/mac-help/start-up-your-mac-in-safe-mode-mh21245/mac#:~:text=Turn%20on%20or%20restart%20your,Boot%E2%80%9D%20in%20the%20menu%20bar)
 
 3. SEB를 제거합니다. 
@@ -70,9 +71,9 @@ SEB는 리눅스를 지원하지 않습니다.
 
 - Gitlab 페이지에서는 코드의 수정이 가능하지만 컴파일하고 테스트를 돌려볼 수는 없습니다. 
 
-    실제 시험에서는 gitlab 페이지에서 coder(웹에서 vscode와 유사한 환경을 제공) 링크와 계정을 제공할 예정입니다. 
+    실제 시험에서는 gitlab 페이지에서 coder(웹에서 vscode와 유사한 환경을 제공) 링크를 제공할 예정입니다. 
 
-    coder에서 코드를 작성하고 복사한 후 gitlab 편집창에 붙여넣고 commit을 남기시면 됩니다. 
+    coder에서 코드를 작성하고 (컴파일 및 테스트하고) 복사한 후 gitlab 편집창에 붙여넣고 commit을 남기시면 됩니다. 
 
     가장 마지막 commit 내역이 채점에 반영됩니다. 
 
