@@ -35,6 +35,9 @@ SEB는 리눅스를 지원하지 않습니다.
 5. Edit - Web IDE 를 눌러 편집창을 띄웁니다. 
 ![](./11.png)
 
+5-1. Edit - Web IDE 를 눌렀을 때 SEB를 종료한다는 팝업이 뜬다면 (특히 mac에서), 
+[이 글](https://github.com/snu-sf-class/pp202402/issues/16#issuecomment-2428237641)을 참고하시기 바랍니다.
+
 6. 좌하단의 버튼을 눌러 창을 전환하고, 원래 gitlab 페이지에서 아무 문장이나 복사합니다. 
 
 7. 편집창으로 돌아가 `src/main/scala/Main.scala` 파일의 내용을 적당히 수정하고 저장합니다. 
