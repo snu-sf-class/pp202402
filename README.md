@@ -8,10 +8,9 @@
 - Lecture Room: Bldg 302 Rm 107
 
 ### Grading (tentative)
-  - Attendance : 5%
-  - Assignments : 25%
+  - Assignments : 40%
   - Midterm exam : 30%
-  - Final exam : 40%
+  - Final exam : 30%
 
 ### Attendance
 We will not use electronic attendance check in this class.
@@ -27,6 +26,7 @@ If the professor does not specifically check attendance during class, everyone w
 #### Assignments
 - [Assignment #0](https://github.com/snu-sf-class/pp202402/issues/3).
 - [Assignment #1](https://github.com/snu-sf-class/pp202402/issues/5). Due date : 2024/10/13
+- [Assignment #2](https://github.com/snu-sf-class/pp202402/issues/14). Due date : 2024/11/04
 - ...
 
 ## Course Description
