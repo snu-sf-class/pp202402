@@ -21,13 +21,14 @@ If the professor does not specifically check attendance during class, everyone w
 
 #### Exam
 - [Midterm](https://github.com/snu-sf-class/pp202402/issues/12) : 2024/10/27(Sun) 1 p.m. ~ 5 p.m. 
-- Final : _TO BE ANNOUNCED_
+- [Final](https://github.com/snu-sf-class/pp202402/issues/43) : 2024/12/15(Sun) 4 p.m. ~ 10 p.m. 
 
 #### Assignments
 - [Assignment #0](https://github.com/snu-sf-class/pp202402/issues/3).
 - [Assignment #1](https://github.com/snu-sf-class/pp202402/issues/5). Due date : 2024/10/13
 - [Assignment #2](https://github.com/snu-sf-class/pp202402/issues/14). Due date : 2024/11/05
 - [Assignment #3](https://github.com/snu-sf-class/pp202402/issues/32). Due date : 2024/11/25
+- [Assignment #4](https://github.com/snu-sf-class/pp202402/issues/44). Due date : 2024/12/09
 - ...
 
 ## Course Description
