@@ -260,6 +260,19 @@ cargo 1.72.0 (103a7ff2e 2023-08-15)
 ```
 콘솔 창에서 위 코드를 입력하면 빈 cargo 프로젝트를 만들 수 있습니다.
 
+
+```bash
+> cargo fmt # formatting the code automatically
+```
+콘솔 창에서 위 코드를 입력하면 프로젝트의 코드를 보기 좋은 형태로 자동으로 수정해줍니다. 
+(예 : 들여쓰기, 불필요한 괄호)
+
+```bash
+> cargo clippy # printing problems of the code and how to fix them
+```
+콘솔 창에서 위 코드를 입력하면 프로젝트의 코드에 있는 경고사항을 찾아서 어떻게 고칠 수 있는지 출력합니다.  
+(예 : 쓰이지 않은 variable 삭제, 권장되지 않는 (대체 가능한) 라이브러리 함수 등)
+
 ### VSCode
 
 ![](./rust%20vscode%201.png)
@@ -271,6 +284,12 @@ cargo 1.72.0 (103a7ff2e 2023-08-15)
 ![](./rust%20vscode%202.png)
 
 src/main.rs에 기본적인 hello world 코드가 있습니다. `fn main()` 위의 `Run`을 클릭하면 메인함수를 실행할 수 있습니다.
+
+main함수가 argument를 받는 경우에는 `Run`을 클릭했을 때 에러가 날 수 있으며, 이 경우 콘솔창에서 `cargo run 42` 와 같은 명령어로 42라는 argument를 넘겨줄 수 있습니다.
+
+![](./rust%20vscode%203.png)
+
+위와 같이 test를 작성할 경우, `Run Test`를 클릭해서 개별 test를, `Run Tests`를 클릭해서 전체 test를 실행할 수 있습니다. 
 
 ### IntelliJ
 
